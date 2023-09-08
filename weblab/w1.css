@@ -1,0 +1,35 @@
+div{
+    text-align: center;
+    color: rgb(255, 0, 166);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#header{
+    color: rgb(255, 0, 0);
+    font-size: 48px;
+    text-align: center;
+}
+#side{
+    color: brown;
+    font-size: 28px;
+}
+.dd{
+    font-size: 24px;
+}
+.gg{
+    font-size: 24px;
+    text-align: left;
+}
+#about{
+    text-align: left;
+    font-size: 28px;
+    color: brown;
+}
+.ff{
+    font-size: 24px;
+    text-align: right;
+}
+#edu{
+    font-size: 28px;
+    text-align: right;
+    color: brown;
+}
